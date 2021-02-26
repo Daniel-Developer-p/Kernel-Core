@@ -1,4 +1,4 @@
-mkernel
+Kernel-Core
 =======
 
 This is a minimalist kernel which prints "`my first kernel`" on the screen and then hangs.
